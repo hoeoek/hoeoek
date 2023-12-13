@@ -1,6 +1,7 @@
 ### Här sitter jag och duger.
 
-PhD student in forestry, working on creating a scandinavian auto-annoted image dataset towards computer vision applications in forest operations.
+PhD student in forestry, working on creating a scandinavian auto-annoted image dataset towards computer vision applications in forest operations. 
+I'm not in CS, although I kind of want to.
 
 Forester by trade, researcher by choice, idealist by need, neglected by you
 
