@@ -16,9 +16,10 @@ Forester by trade, researcher by choice.
 - Proxmox / Debian
 - LLMs
 - GIS / point clouds
+- Git (duh)
 
 🔦
-- Data Science
+- Data Science in Forest Operations
 - Computer Vision
 - Deep Learning
 - MLOps
