@@ -1,30 +1,30 @@
-### Här sitter jag och duger.
+### här sitter jag och duger.
 
-PhD student in forestry, working on creating anautomatically collected and annotated image dataset towards computer vision applications in forest operations. 
-I'm not in CS, although I kind of want to be.
+phd student in forestry, working on creating anautomatically collected and annotated image dataset towards computer vision applications in forest operations. 
+i'm not in cs, although I kind of want to be.
 
 
-🌱 Currently playing with deep learning
-🛸 Occasional side-hustle: UAV surveys (orthophoto mapping, volumetric measurements/photogrammetry), GPT Assistant webapps
-💡 Bioacoustics + neural networks = prescriptive modeling for ecosystem health
+🌱 currently playing with deep learning
+🛸 occasional side-hustle: UAV surveys (orthophoto mapping, volumetric measurements/photogrammetry), gpt assistant webapps
+💡 bioacoustics + neural networks = prescriptive modeling for ecosystem health
 
 🧰
-- Python (Pytorch)
-- R (tidyverse, tidymodels)
-- Docker
-- Proxmox
-- LLMs
-- CLoud
-- GIS / point clouds
-- Git (duh)
+- python (pytorch, opencv)
+- r (tidyverse, tidymodels)
+- docker
+- proxmox
+- llm (ollama, openai, anthropic, huggingface)
+- cLoud
+- gis / point clouds
+- git (duh)
 
 🔦
-- Data Science in Forest Operations
-- Computer Vision
-- Deep Learning
-- Web (mostly React, FastAPI)
-- MLOps
-- Self-hosting
+- data science in forest operations
+- computer vision
+- deep learning
+- web (react, fastapi)
+- mlops
+- self-hosting
 
 ### 👰👧🐈🏡🥾🏕️🎸
 
